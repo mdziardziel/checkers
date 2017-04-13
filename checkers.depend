@@ -1,0 +1,311 @@
+# depslib dependency file v1.0
+1488997822 source:c:\users\michal\desktop\gra - warcaby\checkers\board.cpp
+	"board.hpp"
+	<allegro5/allegro.h>
+
+1488996091 c:\users\michal\desktop\gra - warcaby\checkers\board.hpp
+
+1488997024 source:c:\users\michal\desktop\gra - warcaby\checkers\main.cpp
+	"board.hpp"
+
+1489047264 source:c:\users\michal\desktop\gra - warcaby — kopia\checkers\board.cpp
+	"board.hpp"
+	<allegro5/allegro.h>
+
+1488996091 c:\users\michal\desktop\gra - warcaby — kopia\checkers\board.hpp
+
+1488997024 source:c:\users\michal\desktop\gra - warcaby — kopia\checkers\main.cpp
+	"board.hpp"
+
+1489652728 source:c:\users\michal\desktop\gra - warcaby pêtla\checkers\main.cpp
+	"menu.hpp"
+	"main.hpp"
+
+1489437178 c:\users\michal\desktop\gra - warcaby pêtla\checkers\board.hpp
+
+1489526337 source:c:\users\michal\desktop\gra - warcaby pêtla\checkers\board.cpp
+	<allegro5/allegro.h>
+	<stdio.h>
+
+1489607973 source:c:\users\michal\desktop\gra - warcaby pêtla\checkers\free.cpp
+	"free.hpp"
+	"save_game.hpp"
+
+1489243156 c:\users\michal\desktop\gra - warcaby pêtla\checkers\free.hpp
+
+1489239485 source:c:\users\michal\desktop\gra - warcaby pêtla\checkers\graphic.cpp
+	"graphic.hpp"
+
+1489239488 c:\users\michal\desktop\gra - warcaby pêtla\checkers\graphic.hpp
+
+1489700105 source:c:\users\michal\desktop\gra - warcaby pêtla\checkers\load.cpp
+	"load.hpp"
+	"allegro5/allegro.h"
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"multi.hpp"
+	"single.hpp"
+	"colors.hpp"
+
+1489610446 c:\users\michal\desktop\gra - warcaby pêtla\checkers\load.hpp
+
+1489700278 source:c:\users\michal\desktop\gra - warcaby pêtla\checkers\menu.cpp
+	"menu.hpp"
+	"single.hpp"
+	"multi.hpp"
+	"load.hpp"
+	"colors.hpp"
+	"keyboard.hpp"
+	<allegro5/allegro.h>
+	<stdio.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1489611509 c:\users\michal\desktop\gra - warcaby pêtla\checkers\menu.hpp
+
+1489700105 source:c:\users\michal\desktop\gra - warcaby pêtla\checkers\multi.cpp
+	"engine.hpp"
+	"multi.hpp"
+	"save_game.hpp"
+	"colors.hpp"
+	"keyboard.hpp"
+	"main.hpp"
+	"the_end.hpp"
+
+1489699964 c:\users\michal\desktop\gra - warcaby pêtla\checkers\multi.hpp
+
+1489239988 source:c:\users\michal\desktop\gra - warcaby pêtla\checkers\options.cpp
+	"options.hpp"
+	"graphic.hpp"
+
+1489239295 c:\users\michal\desktop\gra - warcaby pêtla\checkers\options.hpp
+
+1489700439 source:c:\users\michal\desktop\gra - warcaby pêtla\checkers\single.cpp
+	"engine.hpp"
+	"multi.hpp"
+	"save_game.hpp"
+	"colors.hpp"
+	"keyboard.hpp"
+	"main.hpp"
+	"the_end.hpp"
+
+1489699964 c:\users\michal\desktop\gra - warcaby pêtla\checkers\single.hpp
+
+1489239972 source:c:\users\michal\desktop\gra - warcaby pêtla\checkers\stats.cpp
+	"stats.hpp"
+	"graphic.hpp"
+
+1489239274 c:\users\michal\desktop\gra - warcaby pêtla\checkers\stats.hpp
+
+1489248070 source:c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\board.cpp
+	"board.hpp"
+	<allegro5/allegro.h>
+	<stdio.h>
+
+1489243156 c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\board.hpp
+
+1489243156 source:c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\free.cpp
+	"free.hpp"
+	"graphic.hpp"
+	"save_game.hpp"
+
+1489243156 c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\free.hpp
+
+1489239488 c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\graphic.hpp
+
+1489239813 c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\save_game.hpp
+
+1489239485 source:c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\graphic.cpp
+	"graphic.hpp"
+
+1489239975 source:c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\load.cpp
+	"load.hpp"
+	"graphic.hpp"
+
+1489239283 c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\load.hpp
+
+1489243156 source:c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\main.cpp
+	"board.hpp"
+	"menu.hpp"
+	"single.hpp"
+	"multi.hpp"
+	"stats.hpp"
+	"load.hpp"
+	"options.hpp"
+	"free.hpp"
+
+1489239245 c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\menu.hpp
+
+1489239244 c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\single.hpp
+
+1489239263 c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\multi.hpp
+
+1489239274 c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\stats.hpp
+
+1489239295 c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\options.hpp
+
+1489239959 source:c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\menu.cpp
+	"menu.hpp"
+	"graphic.hpp"
+
+1489240038 source:c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\multi.cpp
+	"multi.hpp"
+	"graphic.hpp"
+	"save_game.hpp"
+
+1489239988 source:c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\options.cpp
+	"options.hpp"
+	"graphic.hpp"
+
+1489239991 source:c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\save_game.cpp
+	"save_game.hpp"
+	"graphic.hpp"
+
+1489240034 source:c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\single.cpp
+	"single.hpp"
+	"graphic.hpp"
+	"save_game.hpp"
+
+1489239972 source:c:\users\michal\desktop\gra - warcaby pêtla — kopia\checkers\stats.cpp
+	"stats.hpp"
+	"graphic.hpp"
+
+1489695963 c:\users\michal\desktop\gra - warcaby pêtla\checkers\save_game.hpp
+
+1489700201 source:c:\users\michal\desktop\gra - warcaby pêtla\checkers\save_game.cpp
+	"allegro5/allegro.h"
+	<stdio.h>
+	<stdlib.h>
+	"save_game.hpp"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"colors.hpp"
+	"keyboard.hpp"
+
+1489699571 source:c:\users\michal\desktop\gra - warcaby pêtla\checkers\engine.cpp
+	"engine.hpp"
+	"colors.hpp"
+
+1489611509 c:\users\michal\desktop\gra - warcaby pêtla\checkers\engine.hpp
+	<allegro5/allegro.h>
+	<stdio.h>
+
+1489611509 c:\users\michal\desktop\gra - warcaby pêtla\checkers\colors.hpp
+
+1489695963 source:c:\users\michal\desktop\gra - warcaby pêtla\checkers\keyboard.cpp
+	"keyboard.hpp"
+	"allegro5/allegro.h"
+	"save_game.hpp"
+	"stdio.h"
+
+1489651679 c:\users\michal\desktop\gra - warcaby pêtla\checkers\keyboard.hpp
+
+1489652728 c:\users\michal\desktop\gra - warcaby pêtla\checkers\main.hpp
+
+1489674058 c:\users\michal\desktop\gra - warcaby pêtla\checkers\the_end.hpp
+
+1489699513 source:c:\users\michal\desktop\gra - warcaby pêtla\checkers\the_end.cpp
+	"allegro5/allegro.h"
+	"the_end.hpp"
+	"engine.hpp"
+	"colors.hpp"
+	<allegro5/allegro_ttf.h>
+	"colors.hpp"
+
+1489703171 source:c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\engine.cpp
+	"engine.hpp"
+	"colors.hpp"
+
+1489615109 c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\engine.hpp
+	<allegro5/allegro.h>
+	<stdio.h>
+
+1489615109 c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\colors.hpp
+
+1489699563 source:c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\keyboard.cpp
+	"keyboard.hpp"
+	"allegro5/allegro.h"
+	"save_game.hpp"
+	"stdio.h"
+
+1489655279 c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\keyboard.hpp
+
+1489699563 c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\save_game.hpp
+
+1489703705 source:c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\load.cpp
+	"load.hpp"
+	"allegro5/allegro.h"
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"multi.hpp"
+	"single.hpp"
+	"colors.hpp"
+
+1489614046 c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\load.hpp
+
+1489703564 c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\multi.hpp
+
+1489703564 c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\single.hpp
+
+1489656328 source:c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\main.cpp
+	"menu.hpp"
+	"main.hpp"
+
+1489615109 c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\menu.hpp
+
+1489656328 c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\main.hpp
+
+1489703878 source:c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\menu.cpp
+	"menu.hpp"
+	"single.hpp"
+	"multi.hpp"
+	"load.hpp"
+	"colors.hpp"
+	"keyboard.hpp"
+	<allegro5/allegro.h>
+	<stdio.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1489703705 source:c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\multi.cpp
+	"engine.hpp"
+	"multi.hpp"
+	"save_game.hpp"
+	"colors.hpp"
+	"keyboard.hpp"
+	"main.hpp"
+	"the_end.hpp"
+
+1489677658 c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\the_end.hpp
+
+1489703801 source:c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\save_game.cpp
+	"allegro5/allegro.h"
+	<stdio.h>
+	<stdlib.h>
+	"save_game.hpp"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"colors.hpp"
+	"keyboard.hpp"
+
+1489704039 source:c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\single.cpp
+	"engine.hpp"
+	"multi.hpp"
+	"save_game.hpp"
+	"colors.hpp"
+	"keyboard.hpp"
+	"main.hpp"
+	"the_end.hpp"
+
+1489703113 source:c:\users\michal\desktop\pp\programowanie niskopoziomowe\gra - warcaby pêtla\checkers\the_end.cpp
+	"allegro5/allegro.h"
+	"the_end.hpp"
+	"engine.hpp"
+	"colors.hpp"
+	<allegro5/allegro_ttf.h>
+	"colors.hpp"
+
