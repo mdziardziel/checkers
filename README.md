@@ -1,7 +1,7 @@
 # checkers
-School project, game checkers.
+University project, game checkers.
 
-This game is write in c++.
+This game is written in c++.
 
 We can:
 - play with computer
